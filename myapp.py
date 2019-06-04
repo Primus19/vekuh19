@@ -1,5 +1,3 @@
-print ("hello world")
-print ("This is my second code modification for the day")
+print("Hellow World, this is my first program")
 
-print ("Modified by developer number one")
-
+This is my new file in here. It was not in the original file.
